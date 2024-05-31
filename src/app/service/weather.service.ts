@@ -10,7 +10,7 @@ export class WeatherService {
 
   private BASE_URL = 'https://api.openweathermap.org/data/2.5/weather?q='
 
-  private API_KEY = '94aad21b6391b8ae6224801640fc1c2d'
+  private API_KEY = 'e815b74087095389f62aa4648aeb09f6'
 
 
   constructor(private http: HttpClient) { }
